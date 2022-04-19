@@ -21,7 +21,7 @@ description: Sharkaby: Open source development and Music production. Sharkaby is
   #Google search results) and in your feed.xml site description.
 twitter_username: sharkaby_
 github_username: sharkaby
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default air
 search: true
 
 # Build settings
