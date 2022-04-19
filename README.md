@@ -18,7 +18,7 @@ Has basic configuration of the site for:
 
 ## Troubleshooting
 
-If you cannot access the site, join discussion and report on the [Sharkaby Forum](https://discord.gg/qtVK8vNNNa) or [visit Site status page](https://sharkaby.com/status). Other resources:
+If you cannot access the site, join discussion and report on the [Sharkaby Forum](https://discord.gg/qtVK8vNNNa) or you can also visit the [Site status page](https://sharkaby.com/status). Other resources:
 
 - [404 error](https://wikipedia.org/wiki/HTTP_404)
 - If BSoD, switch to Linux [here's how](https://youtu.be/_Ua-d9OeUOg)
