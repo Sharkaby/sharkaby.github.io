@@ -1,27 +1,26 @@
-# Minimal Mistakes remote theme starter
+# Website for Sharkaby
+Click [**here to visit the site**](https://sharkaby.com)
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Has basic configuration of the site for:
 
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
+- Posts.
+- Top navigation.
+- Author sidebar with social links.
+- Footer links.
 - Paginated home page.
 - Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
+- About page.
+- 404 page.
 - Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- Content.
 
 ---
 
 ## Troubleshooting
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+If you cannot access the site, join discussion and report on the [Sharkaby Forum](https://discord.gg/qtVK8vNNNa) or [visit Site status page](https://sharkaby.com/status). Other resources:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- [404 error](https://wikipedia.org/wiki/HTTP_404)
+- [If BSoD,switch to Linux, here's how](https://youtu.be/_Ua-d9OeUOg)
+- [List of HTTP status codes](https://wikipedia.org/wiki/List_of_HTTP_status_codes) to check when having an Error and avoid `Oops! page not found or HTTP Error` warnings.
+- Oh, and make sure if you are connected to internet. 
