@@ -45,7 +45,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - minimal-mistakes/_includes/footer.html
 
 # Plugins (previously gems:)
 plugins:
@@ -74,17 +73,17 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sharkaby_"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sharkaby_"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sharkaby"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sharkaby_"
+#footer:
+  #links:
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/sharkaby_"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/sharkaby"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/sharkaby_"
 
 defaults:
   # _posts
