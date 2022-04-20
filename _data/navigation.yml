@@ -1,7 +1,7 @@
 main:
   - title: "Music"
     url: /music/
-  - title: "2D Games"
+  - title: "Games"
     url: /games/
   - title: "Posts"
     url: /posts/
