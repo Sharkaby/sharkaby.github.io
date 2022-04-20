@@ -75,18 +75,27 @@ author:
 
 footer:
   links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/qtVK8vNNNa"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://reddit.com/r/sharkaby"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/sharkaby"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-likedin"
+      url: "https://linkedin.com/in/sharkaby"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sharkaby_"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sharkaby"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sharkaby_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sharkaby"
 
 defaults:
   # _posts
