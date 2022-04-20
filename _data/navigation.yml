@@ -9,8 +9,12 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Site Status"
+    url: /status/
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
   - title: "Download"
     url: /download/
   
