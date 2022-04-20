@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sharkaby"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Open source development and Music production."
+  bio    : "Open-source software development and music production."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
