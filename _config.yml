@@ -45,6 +45,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - minimal-mistakes/_includes/footer.html
 
 # Plugins (previously gems:)
 plugins:
