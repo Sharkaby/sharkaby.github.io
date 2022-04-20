@@ -1,6 +1,8 @@
 main:
   - title: "Music"
     url: /music/
+  - title: "2D Games"
+    url: /games/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
