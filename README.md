@@ -2,7 +2,7 @@
 
 Click [**here to visit Sharkaby website**](https://sharkaby.com)
 
-## Troubleshooting
+<h3 align="center">Troubleshooting</h3>
 
 If you cannot access the site, join discussion and report on the [Sharkaby Forum](https://discord.gg/qtVK8vNNNa) or you can also visit the [Site status page](https://sharkaby.com/status). Other resources:
 
@@ -12,7 +12,7 @@ If you cannot access the site, join discussion and report on the [Sharkaby Forum
 - Oh, and make sure if you are connected to internet. 
 
 ---
-## Archives
+#<h3 align="center">Archive</h3>
 
 - Alternatively, GitHub Page for Sharkaby is [**here.**](https://sharkaby.github.io/sharkaby/)
 - That's it for now.
