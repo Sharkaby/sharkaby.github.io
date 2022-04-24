@@ -14,8 +14,7 @@
 
 ***
 
-
-Click [**here to visit Sharkaby website**](https://sharkaby.com)
+[![visit - Website](https://img.shields.io/badge/visit-website-blue?style=for-the-badge)](https://sharkaby.com)
 
 ---
 <h3 align="center">Troubleshooting</h3>
