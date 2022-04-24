@@ -1,4 +1,19 @@
+<div align="center">
+    <a href="https://sharkaby.com">
+    <img src="https://github.com/sharkaby/sharkaby/blob/master/assets/img/sharkaby-logo.svg" alt="sharkaby" title="Sharkaby" width="150" height="150">
+</a>
+</div>
+
 <h2 align="center">Website for Sharkaby</h2>
+
+[![licence][licence-badge]](LICENSE)
+[![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/ "Go to JavaScript homepage")
+[![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/sharkaby)](#sponsors)
+
+[licence-badge]: https://img.shields.io/github/license/sharkaby/sharkaby
+
+***
+
 
 Click [**here to visit Sharkaby website**](https://sharkaby.com)
 
