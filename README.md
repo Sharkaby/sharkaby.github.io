@@ -29,5 +29,5 @@ If you cannot access the site, join discussion and report on the [Sharkaby Forum
 ---
 <h3 align="center">Archive</h3>
 
-- Alternatively, GitHub Page for Sharkaby is [**here.**](https://sharkaby.github.io/sharkaby/)
+- Alternatively, GitHub Page for Sharkaby is [**here.**](https://sharkaby.github.io/)
 - That's it for now.
