@@ -10,7 +10,7 @@
 [![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/ "Go to JavaScript homepage")
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/sharkaby)](#sponsors)
 
-[licence-badge]: https://img.shields.io/github/license/sharkaby/sharkaby
+[licence-badge]: https://img.shields.io/github/license/sharkaby.github.io/sharkaby
 
 ***
 
