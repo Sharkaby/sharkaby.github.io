@@ -17,7 +17,7 @@ body {
 }
 
 a {
-  color: #ffffff;
+  color: #3884e8;
   text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ h2 {
 }
 
 h1, h2, h3, h4 {
-  color: #ffffff;
+  color: #3884e8;
 }
 
 #container {
@@ -76,7 +76,7 @@ h1, h2, h3, h4 {
 }
 .header .header__nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #3884e8;
   font-weight: 600;
   font-size: 1.3em;
   margin: 0 9px;
@@ -179,8 +179,8 @@ h1, h2, h3, h4 {
 }
 
 .btn--download:hover {
-  color: #ffffff;
-  background-color: #3884e8;
+  color: #3884e8;
+  background-color: #ffffff;
 }
 
 .btn--install {
@@ -190,8 +190,8 @@ h1, h2, h3, h4 {
 }
 
 .btn--install:hover {
-  color: #3884e8;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #3884e8;
 }
 
 .features {
@@ -628,7 +628,7 @@ h1, h2, h3, h4 {
   transition: all 0.3s ease-in-out;
 }
 .call-to-action .btn--download:hover {
-  color: #ECEFF4;
+  color: #ffffff;
   background-color: #3884e8;
 }
 
