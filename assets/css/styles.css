@@ -6,23 +6,23 @@ html {
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #3B4252;
-  color: #ECEFF4;
+  background-color: #ffffff;
+  color: #1f1f1f;
   margin: 0;
 }
 
 ::selection {
-  background-color: #5E81AC;
-  color: #E5E9F0;
+  background-color: #227ff2;
+  color: #1f1f1f;
 }
 
 a {
-  color: #88C0D0;
+  color: #a1c2ed;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ECEFF4;
+  color: #1f1f1f;
 }
 
 h2 {
@@ -31,7 +31,7 @@ h2 {
 }
 
 h1, h2, h3, h4 {
-  color: #ECEFF4;
+  color: #1f1f1f;
 }
 
 #container {
