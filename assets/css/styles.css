@@ -6,14 +6,14 @@ html {
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #3884e8;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #3884e8;
   margin: 0;
 }
 
 ::selection {
-  background-color: #3884e8;
-  color: #1f1f1f;
+  background-color: #ffffff;
+  color: #3884e8;
 }
 
 a {
@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 }
 
 .header {
-  border-bottom: 3px solid #3884e8;
+  border-bottom: 3px solid #ffffff;
   display: flex;
   justify-content: center;
   min-height: 40px;
@@ -95,16 +95,16 @@ h1, h2, h3, h4 {
   padding: 0;
 }
 .header .header__nav__links .download a {
-  color: #000000;
+  color: #3884e8;
   margin: 0 8px;
-  background-color: #3884e8;
+  background-color: #ffffff;
   border-radius: 6px;
   padding: 2px 12px;
-  border: 2px solid #3884e8;
+  border: 2px solid #ffffff;
   transition: all 0.25s ease-in-out;
 }
 .header .header__nav__links .download a:hover {
-  color: #3884e8;
+  color: #ffffff;
   border-color: #3884e8;
   background-color: rgba(0, 0, 0, 0);
 }
@@ -696,10 +696,10 @@ h1, h2, h3, h4 {
   gap: 7px;
 }
 .footer a {
-  color: #D8DEE9;
+  color: #3884e8;
 }
 .footer a:hover {
-  color: #88C0D0;
+  color: #3884e8;
 }
 .footer .footer__copyright {
   display: flex;
@@ -743,7 +743,7 @@ h1, h2, h3, h4 {
     transition: all 0.2s ease-in-out;
   }
   .header .header__nav .header__nav__btn.responsive {
-    color: #88C0D0;
+    color: #3884e8;
     transform: rotate(-90deg);
   }
   .header .header__nav .header__nav__links {
