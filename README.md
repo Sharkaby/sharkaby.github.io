@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://sharkaby.com">
-    <img src="https://github.com/sharkaby/sharkaby/blob/master/assets/img/sharkaby-logo.svg" alt="sharkaby" title="Sharkaby" width="150" height="150">
+    <img src="https://github.com/sharkaby/sharkaby/blob/gh-pages/assets/img/sharkaby-logo.svg" alt="sharkaby" title="Sharkaby" width="150" height="150">
 </a>
 </div>
 
