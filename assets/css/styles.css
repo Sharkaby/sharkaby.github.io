@@ -6,7 +6,7 @@ html {
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #000000;
+  background-color: #3884e8;
   color: #ffffff;
   margin: 0;
 }
@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 }
 
 .header {
-  border-bottom: 3px solid #000000;
+  border-bottom: 3px solid #3884e8;
   display: flex;
   justify-content: center;
   min-height: 40px;
@@ -179,23 +179,23 @@ h1, h2, h3, h4 {
 }
 
 .btn--download:hover {
-  color: #88C0D0;
-  background-color: #3B4252;
+  color: #ffffff;
+  background-color: #3884e8;
 }
 
 .btn--install {
-  color: #ECEFF4;
+  color: #ffffff;
   border: 2px solid #ECEFF4;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: #3884e8;
 }
 
 .btn--install:hover {
-  color: #3B4252;
-  background-color: #D8DEE9;
+  color: #3884e8;
+  background-color: #ffffff;
 }
 
 .features {
-  background-color: #2E3440;
+  background-color: #3884e8;
   padding: 90px 0;
   align-items: center;
 }
@@ -658,7 +658,7 @@ h1, h2, h3, h4 {
 }
 
 .footer {
-  background-color: #000000;
+  background-color: #3884e8;
   color: #ffffff;
   padding: 16px 0 16px 0;
   text-align: left;
