@@ -65,7 +65,7 @@ h1, h2, h3, h4 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 90%;
+  width: 80%;
   max-width: 1120px;
 }
 .header .header__nav__btn {
@@ -118,15 +118,15 @@ h1, h2, h3, h4 {
 }
 
 .section__content {
-  width: 90%;
+  width: 80%;
   max-width: 1050px;
 }
 
 .hero {
   width: 100%;
   font-size: 1.2em;
-  padding-top: 80px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 100px;
 }
 .hero .section__content {
   display: flex;
@@ -603,6 +603,7 @@ h1, h2, h3, h4 {
 }
 .call-to-action .call-to-action__title h3 {
   margin: 10px 0;
+  color: #ffffff;
 }
 .call-to-action .call-to-action__text {
   display: flex;
