@@ -743,7 +743,7 @@ h1, h2, h3, h4 {
     transition: all 0.2s ease-in-out;
   }
   .header .header__nav .header__nav__btn.responsive {
-    color: #3884e8;
+    color: #f1f1f1;
     transform: rotate(-90deg);
   }
   .header .header__nav .header__nav__links {
@@ -758,7 +758,7 @@ h1, h2, h3, h4 {
     font-size: 1.1em;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
     margin-top: 15px;
-    background-color: #3884e8;
+    background-color: #f1f1f1;
     border-radius: 6px;
     padding: 10px 0;
     padding-left: 25px;
