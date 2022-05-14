@@ -194,6 +194,7 @@ h1, h2, h3, h4 {
   background-color: #3884e8;
 }
 
+/*
 .features {
   background-color: #3884e8;
   padding: 90px 0;
@@ -578,7 +579,7 @@ h1, h2, h3, h4 {
   align-self: center;
   color: #3884e8;
 }
-
+*/
 .call-to-action {
   text-align: center;
   padding-top: 45px;
@@ -809,7 +810,7 @@ h1, h2, h3, h4 {
   .hero img {
     display: none;
   }
-
+/*
   .feature {
     margin: 8px 0;
   }
@@ -839,7 +840,7 @@ h1, h2, h3, h4 {
   .wm .wm__bonus .wm__theme {
     min-width: 180px;
   }
-
+*/
   .sponsors__images {
     flex-direction: column;
   }
